@@ -38,7 +38,7 @@ function sendSms($phoneNumber,$message){
 
 }
 
-sendSms("254757177738",
-"This is a message.\n\nRegards\nMobiTech Technologies");
+sendSms("2547.......",
+"Hi, Welcome to Sms Api hacking with Steve Muindi");
 
 ?>
